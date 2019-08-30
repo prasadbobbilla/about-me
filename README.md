@@ -11,8 +11,8 @@ This repo tell you about the information to start with Github and commands avail
 ## Recommended Tools
 
 ### Web Browsers :
-1.[Google Chrome](https://www.google.com/chrome/)
-2.[Firefox](https://www.mozilla.org/en-US/firefox/)
+1. [Google Chrome](https://www.google.com/chrome/)
+2. [Firefox](https://www.mozilla.org/en-US/firefox/)
 
 ### Editing Tools :
 1.[Visual Studio](https://visualstudio.microsoft.com/downloads/)
@@ -20,10 +20,10 @@ This repo tell you about the information to start with Github and commands avail
 
 ## Recommended Resources
 
-Below are some of the resources to find information on Github pages
+Below are some of the resources to find information about Github pages
 
-1.[Git Basics](https://www.codecademy.com/learn/learn-git)
-2.[Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/#lists)
-3.[Visualizing Git](http://git-school.github.io/visualizing-git/)
+1. [Git Basics](https://www.codecademy.com/learn/learn-git)
+2. [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/#lists)
+3. [Visualizing Git](http://git-school.github.io/visualizing-git/)
 
 
