@@ -15,8 +15,8 @@ This repo tell you about the information to start with Github and commands avail
 2. [Firefox](https://www.mozilla.org/en-US/firefox/)
 
 ### Editing Tools :
-1.[Visual Studio](https://visualstudio.microsoft.com/downloads/)
-2.[Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
+1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+2. [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 
 ## Recommended Resources
 
@@ -30,6 +30,6 @@ Below are some of the resources to find information about Github pages
 
  Iam a grad student in Applied Computer Science program joined in fall 2019. I have work experience of 3.4 years in IBM India Pvt. Ltd as a Application Developer in SAP - Business Warehouse module
  
- !(DSC_0331.JPG)
+ ![](DSC_0331.JPG)
 
 
