@@ -15,7 +15,7 @@ This repo tell you about the information to start with Github and commands avail
 2. [Firefox](https://www.mozilla.org/en-US/firefox/)
 
 ### Editing Tools :
-1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+1. [Visual Studio Code](https://visualstudio.microsoft.com/downloads/)
 2. [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 
 ## Recommended Resources
