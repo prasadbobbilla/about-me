@@ -2,8 +2,8 @@
 
 ## Repository Links
 
-- [source repository](https://github.com/prasadbobbilla/about-me/edit/master/README.md)
-- [hosted page](https://prasadbobbilla.github.io/about-me/)
+- [Source Repository](https://github.com/prasadbobbilla/about-me/edit/master/README.md)
+- [Hosted Page](https://prasadbobbilla.github.io/about-me/)
 
 ## About
 This repo tell you about the information to start with Github and commands available in markdown language.
