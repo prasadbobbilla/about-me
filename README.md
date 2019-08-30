@@ -26,4 +26,10 @@ Below are some of the resources to find information about Github pages
 2. [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/#lists)
 3. [Visualizing Git](http://git-school.github.io/visualizing-git/)
 
+## Contributors
+
+ Iam a grad student in Applied Computer Science program joined in fall 2019. I have work experience of 3.4 years in IBM India Pvt. Ltd as a Application Developer in SAP - Business Warehouse module
+ 
+ !(DSC_0331.JPG)
+
 
