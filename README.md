@@ -28,7 +28,7 @@ Below are some of the resources to find information about Github pages
 
 ## Contributors
 
- Iam a grad student in Applied Computer Science program joined in fall 2019. I have work experience of 3.4 years in IBM India Pvt. Ltd as a Application Developer in SAP - Business Warehouse module
+ Iam a grad student in Applied Computer Science program joined in fall 2019. I have work experience of 3.4 years in IBM India Pvt. Ltd as a Application Developer in SAP - Business Warehouse module. Here comes my favourite picture captured randomly by my friend, Sowmya Thogiti.
  
  ![](DSC_0331.JPG)
 
