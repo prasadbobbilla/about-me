@@ -6,7 +6,7 @@
 - [Hosted Page](https://prasadbobbilla.github.io/about-me/)
 
 ## About
-This repo tells you about the tools and resources needed to start with Github and also basic commands available in markdown language.
+This repo tells you about the tools and resources which we use for Github and also basic commands available in markdown language.
 
 ## Recommended Tools
 
