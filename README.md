@@ -2,7 +2,7 @@
 
 ## Repository Links
 
-- [Source Repository](https://github.com/prasadbobbilla/about-me/edit/master/README.md)
+- [Source Repository](https://github.com/prasadbobbilla/about-me)
 - [Hosted Page](https://prasadbobbilla.github.io/about-me/)
 
 ## About
